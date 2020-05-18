@@ -9,3 +9,9 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin git@github.com:Norion09/React-nodejs.git
 git push -u origin master
+
+git init
+git commit -m "alguma coisa"
+git status
+git add *
+git push -u origin master
