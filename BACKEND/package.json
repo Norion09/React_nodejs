@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mogoose": "0.0.1-security",
     "ts-node": "^8.10.1",
     "typescript": "^3.9.2"
   },
